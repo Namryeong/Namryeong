@@ -1,6 +1,6 @@
 ### Hi there 👋
-My name is Namryeong.
-I go to Gachon University.
+My name is Namryeong.</br>
+I go to Gachon University.</br>
 Thank you for reading. 🙂
 
 <!--
